@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "PORT": 3000,
+        "APP_NAME": "cognito-auth-api",
+        "LOG_DIR": "./logs",
+        "LOG_LEVEL": "info"
+    }
+}
